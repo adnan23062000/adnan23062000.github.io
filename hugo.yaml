@@ -184,33 +184,24 @@ params:
         date: "Sept 2023 - present"
         info:
           enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
         content: |
           I am currently working as a Research Intern at SEA Lab, College of William & Mary under the supervision of Dr. Oscar Chaparro. I am currently working on a project that solves a couple of Software Engineering problems using Machine Learning and NLP.
 
       - job: "Software Engineer"
         company: "Samsung R and D Institute Bangladesh"
-        companyUrl: "https://example.com"
+        companyUrl: "https://research.samsung.com/srbd"
         date: "Feb 2024 - present"
         info:
           enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
         content: |
           I am currently working as a Software Engineer at Samsung R&D Institute Bangladesh. I am currently working on the Cloud Solutions project of Samsung Medison's and also involved in a research regarding Medical Imaging. 
 
       - job: "Trainee Software Engineer"
         company: "Cefalo Bangladesh Limited"
-        companyUrl: "https://example.com"
+        companyUrl: "https://www.cefalo.com/en/"
         date: "Jan 2023 - Jun 2023"
         info:
           enable: false
-        featuredLink:
-          enable: true
-          url: "https://example.com"
         content: |
           Worked as a Full-stack Software Developer and worked in the in-house employee intercommunication web platform of Cefalo.
 
