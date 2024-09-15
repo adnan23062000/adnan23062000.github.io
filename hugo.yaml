@@ -179,7 +179,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Research Intern"
-        company: "SEA Lab, College of William amd Mary"
+        company: "SEA Lab, College of William and Mary"
         companyUrl: "https://example.com"
         date: "Sept 2023 - present"
         info:
@@ -191,7 +191,7 @@ params:
           I am currently working as a Research Intern at SEA Lab, College of William & Mary under the supervision of Dr. Oscar Chaparro. I am currently working on a project that solves a couple of Software Engineering problems using Machine Learning and NLP.
 
       - job: "Software Engineer"
-        company: "Samsung R&D Institute Bangladesh"
+        company: "Samsung R and D Institute Bangladesh"
         companyUrl: "https://example.com"
         date: "Feb 2024 - present"
         info:
