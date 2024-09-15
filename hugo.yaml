@@ -179,7 +179,7 @@ params:
     # title: "Custom Name"
     items:
       - job: "Research Intern"
-        company: "SEA Lab, W&M"
+        company: "SEA Lab, College of William amd Mary"
         companyUrl: "https://example.com"
         date: "Sept 2023 - present"
         info:
