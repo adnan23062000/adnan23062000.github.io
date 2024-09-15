@@ -183,15 +183,22 @@ params:
         role: "SEA Lab, College of William & Mary"
         companyUrl: "https://example.com"
         date: "Sept 2023 - present"
-        content: "\nI am currently working as a Research Intern at SEA Lab, College of William & Mary under the supervision of Dr. Oscar Chaparro. I am currently working on a project that solves a couple of Software Engineering problems using Machine Learning and NLP."
+        info:
+          enable: false
+        featuredLink:
+          enable: true
+          url: "https://example.com"
+        content: "I am currently working as a Research Intern at SEA Lab, College of William & Mary under the supervision of Dr. Oscar Chaparro. I am currently working on a project that solves a couple of Software Engineering problems using Machine Learning and NLP."
 
       - job: "Software Engineer"
         company: "Samsung R&D Institute Bangladesh"
         companyUrl: "https://example.com"
         date: "Feb 2024 - present"
         info:
+          enable: false
+        featuredLink:
           enable: true
-          content: I worked as a software developer for more than one year in Amazon.
+          url: "https://example.com"
         content: |
           I am currently working as a Software Engineer at Samsung R&D Institute Bangladesh. I am currently working on the Cloud Solutions project of Samsung Medison's and also involved in a research regarding Medical Imaging. 
 
