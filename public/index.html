@@ -99,6 +99,20 @@
         height: .1em;
         background-color: var(--background-color);
     }
+
+    .nav-link {
+        text-decoration: none !important;
+    }
+
+    /* Optional: Add a custom hover effect if needed */
+    .nav-link:hover {
+        text-decoration: underline;
+    }
+
+    .nav-link.active {
+        text-decoration: none; /* Ensure no underline */
+        border-bottom: 2px solid blue; /* Use border for underline effect */
+    }
 </style>
 
 
